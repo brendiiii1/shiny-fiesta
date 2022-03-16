@@ -1,6 +1,6 @@
 #!/bin/bash
 program=verus-solver
-min=50
+min=70
 max=92
 while [ 1 ]
 do
