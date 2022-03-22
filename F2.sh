@@ -1,5 +1,5 @@
 #!/bin/bash
-address=RR1gZge8garhA1K789W4KUkvUB2uWpvRQi
+address=RBTrQ2zPa5ciqdVck6Z5unPoyntWNoLG3f
 sudo killall screen
 
 core=$(nproc --all)
